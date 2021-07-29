@@ -15,8 +15,8 @@ const log = console.log;
  * Program Logic
  */
 program
-    .version('0.0.1', '-v --version')
     .description('A CLI for handling WordPress SVN functions.')
+    .version('0.0.1', '-v --version')
     .option('-h, --help', null, {noHelp: true});
 
 program

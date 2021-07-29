@@ -1,7 +1,7 @@
 {
   "name": "wordpress-svn",
   "version": "0.0.7",
-  "description": "A command-line tool for managing Wordpress SVN projects.",
+  "description": "A command-line tool for managing Wordpress SVN projects more like GIT.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
